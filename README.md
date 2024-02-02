@@ -27,12 +27,15 @@ To set up the project environment:
 - You can modify and rerun the code cells to explore different hypotheses or perspectives.
 
 ## Analysis Techniques 
-1. 
-2. 
+1. Distribution of rapes by Zip Code
+2. Bulgary success rate compared to Median Household Income
 3. Rental units affordable to an average teacher and the frequency of crime types in those Council Districts
     - Averages
     - Scatter plots
     - Pearson Correlation Test
-4. 
+4. Crime Statistics by Zip Code
+    - Bar & Box plots
+    - Means
+    - T-test
 
 Each technique is demonstrated with appropriate visualizations using Seaborn and/or Matplotlib.
